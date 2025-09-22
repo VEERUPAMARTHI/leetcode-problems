@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1646-kth-missing-positive-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -30,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
