@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -59,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
