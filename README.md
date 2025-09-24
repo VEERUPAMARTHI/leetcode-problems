@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -79,5 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0202-happy-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
