@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0202-happy-number) |
+| [2238-a-number-after-a-double-reversal](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
