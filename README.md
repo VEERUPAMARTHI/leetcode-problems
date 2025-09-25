@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
