@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1646-kth-missing-positive-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
