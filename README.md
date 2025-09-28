@@ -104,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1179-game-play-analysis-i](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
