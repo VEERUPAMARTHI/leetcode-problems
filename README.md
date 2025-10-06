@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0202-happy-number) |
+| [1642-water-bottles](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1642-water-bottles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
