@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1258-article-views-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Simulation
