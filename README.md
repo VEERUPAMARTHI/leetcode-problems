@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Binary Search
 |  |
 | ------- |
