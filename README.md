@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1523-capital-gainloss](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1541-top-travellers) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Simulation
 |  |
 | ------- |
