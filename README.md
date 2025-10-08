@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2486-most-frequent-even-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
