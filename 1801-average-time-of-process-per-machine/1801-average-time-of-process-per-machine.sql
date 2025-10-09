@@ -1,5 +1,5 @@
-/* Write your PL/SQL query statement below */
-WITH cte AS   
+# Write your MySQL query statement below
+WITH cte AS    
 (
     SELECT machine_id,process_id,MAX(timestamp)-MIN(timestamp) AS timestamp
     FROM activity
