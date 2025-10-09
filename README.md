@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1541-top-travellers) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
+| [1837-daily-leads-and-partners](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1837-daily-leads-and-partners) |
 ## Simulation
 |  |
 | ------- |
