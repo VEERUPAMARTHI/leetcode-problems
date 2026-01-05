@@ -173,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
