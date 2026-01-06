@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
