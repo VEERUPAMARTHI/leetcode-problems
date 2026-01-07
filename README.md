@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0202-happy-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1642-water-bottles](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/1642-water-bottles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VEERUPAMARTHI/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
